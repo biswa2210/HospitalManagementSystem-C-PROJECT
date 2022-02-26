@@ -6,6 +6,11 @@ struct date{
     int month,day,year;
 
 };
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 struct diagnostic{
 
     char name[60];
