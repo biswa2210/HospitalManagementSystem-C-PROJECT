@@ -20,6 +20,7 @@
 
 <div align="justified">
  
+The project HOSPITAL MANAGEMENT SYSTEM is used for keeping record of each and every patients of hospital in a database format. Usually, this system is handled by receptionists, record managers. It is confidential and cannot be opened by others. When a patient is admitted, his details should be recorded by hospital management system. All diagnostic reports of a patient should be kept carefully. Full history of a patient should be kept carefully for proper thorough treatment. All patient list must be there for perfect procedure of treatment. So, the unoccupied rooms and beds can be given to new patients. When patient is discharged from hospital then the total fees and treatment cost is given to him for payment. The records of the patients are kept confidentially.
 
 
 </div>
@@ -28,20 +29,11 @@
 
 <div align="justified">
 
-
-
-</div>
-
-## Use :point_down:
-
-<div align="justified">
- 
+I have created it in for my first sem project. I have practiced file handling concepts in C and got a basic idea of management systems.
 
 </div>
 
 ## Folder Structure :point_down:
-
-## Making :point_down:
 
 
     
@@ -88,6 +80,7 @@
 <a href="Pictures/h19.png"><img src="Pictures/h19.png" width="800" height="400"></a>
  
 <a href="Pictures/h20.png"><img src="Pictures/h20.png" width="800" height="400"></a>
+
 </div>
 
 
