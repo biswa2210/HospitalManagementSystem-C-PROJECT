@@ -38,9 +38,11 @@ I have created it in for my first sem project. I have practiced file handling co
 
 ## Folder Structure :point_down:
 
+```bash
 Hospital Management System
         └── hospital.c
-    
+```
+
 ## Screenshots of this project :point_down: 
 
 <div align="center">
